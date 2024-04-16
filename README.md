@@ -4,6 +4,8 @@ This food kiosk app allows costumers to order meals on their own. This project i
 
 Screen size Food Kiosk app: width: 1440px height: 2560px.
 
+Project made in June 2022
+
 
 ## Technologies 
 
