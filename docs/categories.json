@@ -1,0 +1,53 @@
+[
+    {
+        "id": "1c",
+        "name": "Buckets",
+        "image": "buckets.png"
+    },
+    {
+        "id": "2c",
+        "name": "Chicken Burger",
+        "image": "chicken_burger.png"
+    },
+    {
+        "id": "3c",
+        "name": "Chicken Tenders",
+        "image": "chicken_tenders.png"
+    },
+    {
+        "id": "4c",
+        "name": "Desserts",
+        "image": "desserts.png"
+    },
+    {
+        "id": "5c",
+        "name": "Loaded fries",
+        "image": "loaded_fries.png"
+    },
+    {
+        "id": "6c",
+        "name": "Sides",
+        "image": "sides.png"
+    },
+    {
+        "id": "7c",
+        "name": "Wraps & Bowls",
+        "image": "bowls.png"
+    },
+    {
+        "id": "8c",
+        "name": "Classics",
+        "image": "classics.png"
+    },
+    {
+        "id": "9c",
+        "name": "Dipping Sauces",
+        "image": "dipping_sauces.png"
+    },
+    {
+        "id": "10c",
+        "name": "Drinks",
+        "image": "drinks.png"
+    }
+
+]

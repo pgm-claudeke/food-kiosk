@@ -1,0 +1,39 @@
+/*
+  fonts import
+*/
+
+@font-face {
+  font-family:'Montserrat Black';
+  src: url('./assets/fonts/Montserrat\ Black.woff2') format('woff2'),
+  url('./assets/fonts/Montserrat\ Black.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family:'Montserrat Medium';
+  src: url('./assets/fonts/Montserrat\ Medium.woff2') format('woff2'),
+  url('./assets/fonts/Montserrat\ Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+* {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #D4001C;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
